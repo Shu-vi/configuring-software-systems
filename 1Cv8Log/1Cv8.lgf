@@ -12,4 +12,6 @@
 {3,"BackgroundJob",3},
 {4,"_$InfoBase$_.ConfigUpdate",4},
 {4,"_$InfoBase$_.DBConfigUpdateStart",5},
-{4,"_$InfoBase$_.DBConfigUpdate",6}
+{4,"_$InfoBase$_.DBConfigUpdate",6},
+{4,"_$PerformError$_",7},
+{4,"_$InfoBase$_.DBConfigUpdateError",8}
